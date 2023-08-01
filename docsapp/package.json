@@ -2,7 +2,7 @@
   "name": "docsapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Nirajkadam7.github.io/DOC-Care",
+  "homepage": "http://Nirajkadam7.github.io/myDocs",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
